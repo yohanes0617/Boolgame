@@ -235,12 +235,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\JanpPowerUp.cs" />
-    <Compile Include="Assets\KillBool.cs" />
+    <Compile Include="Assets\DropGround.cs" />
     <Compile Include="Assets\Script\BoolJanp.cs" />
     <Compile Include="Assets\Script\BoolMove.cs" />
     <Compile Include="Assets\Script\CameraMove.cs" />
     <Compile Include="Assets\Script\Guround.cs" />
+    <Compile Include="Assets\Script\HiJanpGround.cs" />
+    <Compile Include="Assets\Script\JanpPowerUp.cs" />
+    <Compile Include="Assets\Script\JanpUpGet.cs" />
+    <Compile Include="Assets\Script\KillBool.cs" />
+    <Compile Include="Assets\Script\NextText.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
