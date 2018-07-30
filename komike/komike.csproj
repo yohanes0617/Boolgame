@@ -235,10 +235,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\DropGround.cs" />
     <Compile Include="Assets\Script\BoolJanp.cs" />
     <Compile Include="Assets\Script\BoolMove.cs" />
     <Compile Include="Assets\Script\CameraMove.cs" />
+    <Compile Include="Assets\Script\DropGround.cs" />
     <Compile Include="Assets\Script\Guround.cs" />
     <Compile Include="Assets\Script\HiJanpGround.cs" />
     <Compile Include="Assets\Script\JanpPowerUp.cs" />
